@@ -1,1 +1,1 @@
-eroku run bashした時に一時的に作成されるDyno
+heroku run bashした時に一時的に作成されるDyno
